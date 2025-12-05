@@ -1,0 +1,19 @@
+.external-method {
+    background: red;
+    font-size: 32px;
+    color: white;
+    margin: auto;
+    text-align: center;
+    font-weight:bold;
+}
+
+#description {
+    background: green;
+    font-size: 18px;
+    color: white;
+}
+
+.inline-method-button {
+    background: orange;
+    font-size: 18px;
+}
